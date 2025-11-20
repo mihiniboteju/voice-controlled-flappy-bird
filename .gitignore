@@ -5,6 +5,7 @@
 .cproject
 .mxproject
 .project
+.settings
 
 # Optional: You can also ignore build/compiled folders
 /build
