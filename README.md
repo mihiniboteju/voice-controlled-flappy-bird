@@ -79,6 +79,8 @@ The following diagram illustrates the hardware and firmware flow of the project:
 ## 📸 Demo
 
 Photos and gameplay videos are available in the `/Docs` folder.
+[Project Documentation](Docs/)
+
 
 ---
 
