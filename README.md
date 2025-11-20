@@ -32,6 +32,13 @@ This system enables players to control the “jump” action using **voice comma
 
 ---
 
+## Block Diagram
+
+The following diagram illustrates the hardware and firmware flow of the project:
+
+![Block Diagram](Docs/block_diagram.png)
+
+
 ## ⭐ Features
 
 - Dual input modes: **Voice** or **Touch**
