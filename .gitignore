@@ -1,0 +1,11 @@
+# Operating System Files
+.DS_Store
+
+# IDE/Tool Configuration Files
+.cproject
+.mxproject
+.project
+
+# Optional: You can also ignore build/compiled folders
+/build
+/dist
