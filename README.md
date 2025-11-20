@@ -36,7 +36,7 @@ This system enables players to control the “jump” action using **voice comma
 
 The following diagram illustrates the hardware and firmware flow of the project:
 
-![Block Diagram](Docs/block_diagram.png)
+![Block Diagram](Docs/block-diagram.png)
 
 
 ## ⭐ Features
